@@ -15,11 +15,11 @@ KSU_ENABLED="false"
 KSU_TARGET="v0.9.5"
 
 # Anykernel3
-ANYKERNEL3_GIT="https://github.com/SchweGELBin/AnyKernel3_davinci.git"
+ANYKERNEL3_GIT="https://github.com/osm0sis/AnyKernel3.git"
 ANYKERNEL3_BRANCH="master"
 
 # Build
-DEVICE_CODE="davinci"
+DEVICE_CODE="tucana"
 DEVICE_ARCH="arch/arm64"
 
 # Clang
