@@ -55,13 +55,13 @@ fi
 
 
 if [[ $KERNEL_TYPE == "vantom" ]]; then
-    DEVICE_DEFCONFIG="davinci_defconfig"
+    DEVICE_DEFCONFIG="tucana_defconfig"
     COMMON_DEFCONFIG=""
 elif [[ $KERNEL_TYPE == "perf" ]]; then
-    DEVICE_DEFCONFIG="vendor/davinci.config"
+    DEVICE_DEFCONFIG="vendor/tucana.config"
     COMMON_DEFCONFIG="vendor/sdmsteppe-perf_defconfig"
 else
-    DEVICE_DEFCONFIG="davinci_defconfig"
+    DEVICE_DEFCONFIG="tucana_defconfig"
     COMMON_DEFCONFIG=""
 fi
 
