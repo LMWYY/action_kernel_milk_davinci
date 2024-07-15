@@ -15,7 +15,7 @@ KSU_ENABLED="false"
 KSU_TARGET="v0.9.5"
 
 # Anykernel3
-ANYKERNEL3_GIT="https://github.com/osm0sis/AnyKernel3.git"
+ANYKERNEL3_GIT="https://github.com/LMWYY/AnyKernel3_tucana.git"
 ANYKERNEL3_BRANCH="master"
 
 # Build
