@@ -19,7 +19,7 @@ ANYKERNEL3_GIT="https://github.com/SchweGELBin/AnyKernel3_davinci.git"
 ANYKERNEL3_BRANCH="master"
 
 # Build
-DEVICE_CODE="davinci"
+DEVICE_CODE="tucana"
 DEVICE_ARCH="arch/arm64"
 
 # Clang
